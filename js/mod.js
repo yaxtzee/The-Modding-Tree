@@ -17,11 +17,15 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "1.0.0",
-	name: "the &exist; update",
+	num: "0.1.1",
+	name: "version 0.1.1",
 }
 
 let changelog = `<h1>changelog</h1><br/>
+<h3>version 0.1.1 (2021-02-26)</h3><br/>
+<ul>
+<li>fixed version number</li>
+</ul>
 <h3>version 0.1.0 (2021-02-26)</h3><br/>
 <ul>
 <li>endgame of 40 accelerators/1e6 prestige points</li>
